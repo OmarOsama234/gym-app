@@ -1,13 +1,30 @@
 <resources>
-    <string name="app_name">gym_tracker</string>
+    <string name="app_name">Gym Tracker</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Gym Tracker</string>
+    <string name="nav_header_subtitle">Track your fitness journey</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_gallery">Exercises</string>
+    <string name="menu_slideshow">Progress</string>
+    
+    <!-- Workout related strings -->
+    <string name="start_workout">Start Workout</string>
+    <string name="workout_templates">Workout Templates</string>
+    <string name="recent_workouts">Recent Workouts</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="muscle_groups">Muscle Groups</string>
+    <string name="equipment">Equipment</string>
+    <string name="instructions">Instructions</string>
+    <string name="reps">Reps</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="sets">Sets</string>
+    <string name="rest_time">Rest Time</string>
+    <string name="workout_completed">Workout Completed!</string>
+    <string name="total_workouts">Total Workouts</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
 </resources>
